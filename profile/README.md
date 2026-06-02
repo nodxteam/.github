@@ -1,3 +1,5 @@
+![Nodx](BANNER.png)
+
 # Nodx
 
 We build Discord bots, automation scripts, and websites. Based on real project
